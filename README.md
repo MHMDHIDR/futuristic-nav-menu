@@ -29,10 +29,6 @@ To install and use this project, follow these steps:
 2. Open your browser and navigate to http://localhost:3000.
 3. Explore the futuristic navigation menu with hover effects on links.
 
-## Hosting
-
-This project is hosted on GitHub Pages. You can access it [HERE](https://mhmdhidr.github.io/futuristic-nav-menu)
-
 ## Personal Website
 
 If you want to see more interesting stuff, visit my personal website: [mohammedhaydar.com](https://mohammedhaydar.com).
